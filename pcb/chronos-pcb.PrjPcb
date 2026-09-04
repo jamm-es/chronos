@@ -12,7 +12,7 @@ SeparateFolders=0
 TemplateLocationPath=
 PinSwapBy_Netlabel=1
 PinSwapBy_Pin=1
-AllowPortNetNames=0
+AllowPortNetNames=1
 AllowSheetEntryNetNames=1
 AppendSheetNumberToLocalNets=0
 NetlistSinglePinNets=0
@@ -21,7 +21,7 @@ UserID=0xFFFFFFFF
 DefaultPcbProtel=1
 DefaultPcbPcad=0
 ReorderDocumentsOnCompile=1
-NameNetsHierarchically=0
+NameNetsHierarchically=1
 PowerPortNamesTakePriority=0
 AutoSheetNumbering=1
 AutoCrossReferences=1
@@ -458,23 +458,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document25]
-DocumentPath=jlc-parts\STM32L433CCU6\STM32L433CCU6.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document26]
 DocumentPath=jlc-parts\NRF7002-QFAA-R7\NRF7002-QFAA-R7.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -491,7 +474,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document27]
+[Document26]
 DocumentPath=jlc-parts\IRF9640STRLPbF\IRF9640STRLPbF.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -508,7 +491,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document28]
+[Document27]
 DocumentPath=jlc-parts\HX PZ2.54-1x5P ZZ\HX PZ2.54-1x5P ZZ.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -525,7 +508,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document29]
+[Document28]
 DocumentPath=jlc-parts\FRC2512F2402TS\FRC2512F2402TS.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -542,7 +525,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document30]
+[Document29]
 DocumentPath=jlc-parts\FRC1206F1005TS\FRC1206F1005TS.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -559,7 +542,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document31]
+[Document30]
 DocumentPath=jlc-parts\1206B224K251NT\1206B224K251NT.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -576,7 +559,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document32]
+[Document31]
 DocumentPath=jlc-parts\2.54-1x6P\2.54-1x6P.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -593,7 +576,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document33]
+[Document32]
 DocumentPath=jlc-parts\2.54-1_6P\2.54-1_6P.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -610,7 +593,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document34]
+[Document33]
 DocumentPath=jlc-parts\2.54-1_5P\2.54-1_5P.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -627,7 +610,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document35]
+[Document34]
 DocumentPath=jlc-parts\CL10B474KA8NNNC\CL10B474KA8NNNC.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -644,7 +627,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document36]
+[Document35]
 DocumentPath=jlc-parts\CL05B224KO5NNNC\CL05B224KO5NNNC.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -661,7 +644,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document37]
+[Document36]
 DocumentPath=jlc-parts\0402B223K500NT\0402B223K500NT.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -678,7 +661,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document38]
+[Document37]
 DocumentPath=jlc-parts\0402WGF1003TCE\0402WGF1003TCE.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -695,7 +678,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document39]
+[Document38]
 DocumentPath=jlc-parts\0603WAF2402T5E\0603WAF2402T5E.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -712,7 +695,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document40]
+[Document39]
 DocumentPath=jlc-parts\0402WGF1001TCE\0402WGF1001TCE.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -729,7 +712,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document41]
+[Document40]
 DocumentPath=jlc-parts\0402WGF1004TCE\0402WGF1004TCE.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -746,7 +729,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document42]
+[Document41]
 DocumentPath=jlc-parts\0603WAF1005T5E\0603WAF1005T5E.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -763,7 +746,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document43]
+[Document42]
 DocumentPath=jlc-parts\0603WAF3303T5E\0603WAF3303T5E.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -780,7 +763,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document44]
+[Document43]
 DocumentPath=jlc-parts\CL21A476MQYNNNE\CL21A476MQYNNNE.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -797,7 +780,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document45]
+[Document44]
 DocumentPath=jlc-parts\0603WAF2203T5E\0603WAF2203T5E.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -814,7 +797,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document46]
+[Document45]
 DocumentPath=jlc-parts\0402WGF1002TCE\0402WGF1002TCE.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -831,7 +814,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document47]
+[Document46]
 DocumentPath=jlc-parts\0402WGF5102TCE\0402WGF5102TCE.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -848,7 +831,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document48]
+[Document47]
 DocumentPath=jlc-parts\0402WGF220JTCE\0402WGF220JTCE.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -865,7 +848,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document49]
+[Document48]
 DocumentPath=jlc-parts\0402WGF6801TCE\0402WGF6801TCE.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -882,7 +865,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document50]
+[Document49]
 DocumentPath=jlc-parts\0402CG101J500NT\0402CG101J500NT.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -899,7 +882,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document51]
+[Document50]
 DocumentPath=config-interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -916,7 +899,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JQTOXNND
 
-[Document52]
+[Document51]
 DocumentPath=jlc-parts\SS12D07VG4 087\SS12D07VG4 087.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -933,7 +916,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document53]
+[Document52]
 DocumentPath=custom-parts\EA DOGL128W-6\Project Outputs for EA DOGL128W-6\EA DOGL128W-6.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -950,7 +933,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document54]
+[Document53]
 DocumentPath=config-interface.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -967,7 +950,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document55]
+[Document54]
 DocumentPath=lv-supply.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -984,7 +967,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XDYHEYLG
 
-[Document56]
+[Document55]
 DocumentPath=jlc-parts\MicroXNJ\MicroXNJ.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1001,7 +984,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document57]
+[Document56]
 DocumentPath=jlc-parts\TPS2117DRLR\TPS2117DRLR.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1018,7 +1001,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document58]
+[Document57]
 DocumentPath=jlc-parts\BH-AA-A5BJ012\BH-AA-A5BJ012.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1035,7 +1018,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document59]
+[Document58]
 DocumentPath=jlc-parts\0603WAF2204T5E\0603WAF2204T5E.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1052,7 +1035,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document60]
+[Document59]
 DocumentPath=chronos-core.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1069,7 +1052,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document61]
+[Document60]
 DocumentPath=jlc-parts\STM32L433VCT6\STM32L433VCT6.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1086,7 +1069,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document62]
+[Document61]
 DocumentPath=jlc-parts\2.54-1_4\2.54-1_4.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1102,6 +1085,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document62]
+DocumentPath=pcb.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CCLYTVYL
 
 [Configuration1]
 Name=Sources
@@ -1869,11 +1869,11 @@ Type6=2
 Type7=0
 Type8=1
 Type9=1
-Type10=1
-Type11=2
+Type10=0
+Type11=0
 Type12=2
 Type13=2
-Type14=1
+Type14=0
 Type15=1
 Type16=1
 Type17=1
