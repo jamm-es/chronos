@@ -1,0 +1,16 @@
+Altium Designer Pick and Place Locations
+C:\Users\james\chronos\tube-socket-in-8\Project Outputs for Free Documents\Pick Place\Pick Place for pcb.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       10/09/26
+Time:       19:26
+Revision:   30ef2051f178fa44cef24b01dd66ed677de5ff60
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"U1","HX PZ2.54-1x5P ZZ","BottomLayer","HX_PZ2.54-1x5P_ZZ","15.2400","24.1300","0","Pin Headers. -40C~+105C 1 1kV 1x5P 2.54mm 2.5mm 3A 3mm 5P 6mm Black Brass Gold Pin Header Through Hole Plugin,P=2.54mm Pin Headers ROHS"
+"H1","2.54-1x6P","BottomLayer","2.54-1x6P","6.3500","13.9700","90","Pin Headers. -40C~+105C 1 1x6P 2.54mm 2.5mm 3A 3mm 6P 6mm Black Brass Gold Pin Header Through Hole ,P=2.54mm Pin Headers ROHS"
+"V1","Nixie_Tube_IN-8","TopLayer","Nixie_Tube_IN-8","15.5700","14.9218","0",""

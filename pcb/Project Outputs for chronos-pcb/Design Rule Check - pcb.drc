@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\james\chronos\pcb\pcb.PcbDoc
 Date     : 9/10/2026
-Time     : 7:16:02 AM
+Time     : 6:59:43 PM
 
 Processing Rule : Clearance Constraint (Gap=0.127mm) (All),(All)
 Rule Violations :0
@@ -39,7 +39,7 @@ Rule Violations :0
 Processing Rule : Minimum Annular Ring (Minimum=0.076mm) (All)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=0.3mm) (Max=6.3mm) (All)
+Processing Rule : Hole Size Constraint (Min=0.15mm) (Max=6.3mm) (All)
 Rule Violations :0
 
 Processing Rule : Hole To Hole Clearance (Gap=0.25mm) (All),(All)
@@ -48,7 +48,7 @@ Rule Violations :0
 Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Silk To Solder Mask (Clearance=0.127mm) (IsPad),(All)
+Processing Rule : Silk To Solder Mask (Clearance=0.15mm) (IsPad),(All)
 Rule Violations :0
 
 Processing Rule : Silk to Silk (Clearance=0mm) (All),(All)
@@ -81,15 +81,13 @@ Rule Violations :0
 Processing Rule : Room wifi (Bounding Region = (40mm, 51.6mm, 61.8mm, 69.7mm) (InComponentClass('wifi'))
 Rule Violations :0
 
-Processing Rule : Room lv-supply (Bounding Region = (33mm, 91.9mm, 54.9mm, 101.1mm) (InComponentClass('lv-supply'))
-   Violation between Room Definition: Between Room lv-supply (Bounding Region = (33mm, 91.9mm, 54.9mm, 101.1mm) (InComponentClass('lv-supply')) And Small Component U20-BH-AAA-A1AJ024 (111.3mm,64.5mm) on Top Layer 
-Rule Violations :1
-
 Processing Rule : Room gps (Bounding Region = (141.6mm, 52mm, 195.5mm, 90.5mm) (InComponentClass('gps'))
-   Violation between Room Definition: Between Room gps (Bounding Region = (141.6mm, 52mm, 195.5mm, 90.5mm) (InComponentClass('gps')) And Small Component E2-Molex 2116240001 (142.6mm,20.7mm) on Top Layer 
-Rule Violations :1
+Rule Violations :0
 
-Processing Rule : Room config-interface (Bounding Region = (71.885mm, 52.337mm, 140.685mm, 110.237mm) (InComponentClass('config-interface'))
+Processing Rule : Room config-interface (Bounding Region = (71.885mm, 52.337mm, 147mm, 110.237mm) (InComponentClass('config-interface'))
+Rule Violations :0
+
+Processing Rule : Room lv-supply (Bounding Region = (33mm, 91.9mm, 54.9mm, 101.1mm) (InComponentClass('lv-supply'))
 Rule Violations :0
 
 Processing Rule : Room chronos-core (Bounding Region = (34mm, 52.6mm, 71.6mm, 91.5mm) (InComponentClass('chronos-core'))
@@ -119,8 +117,13 @@ Rule Violations :0
 Processing Rule : Height Constraint (Min=0mm) (Max=1816.048mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
+Waived Violations Of Rule : Room lv-supply (Bounding Region = (33mm, 91.9mm, 54.9mm, 101.1mm) (InComponentClass('lv-supply'))
+   Waived Violation between Room Definition: Between Room lv-supply (Bounding Region = (33mm, 91.9mm, 54.9mm, 101.1mm) (InComponentClass('lv-supply')) And SIP Component USB1-MicroXNJ (4.557mm,45.858mm) on Top Layer Waived by John Doe at 9/10/2026 6:58:49 PMwhatever man
+   Waived Violation between Room Definition: Between Room lv-supply (Bounding Region = (33mm, 91.9mm, 54.9mm, 101.1mm) (InComponentClass('lv-supply')) And Small Component U20-BH-AAA-A1AJ024 (111.3mm,64.5mm) on Top Layer Waived by John Doe at 9/10/2026 4:17:32 PMwhatever man
+Waived Violations :2
 
-Violations Detected : 2
-Waived Violations : 0
+
+Violations Detected : 0
+Waived Violations : 2
 PCB Health Issues : 0
 Time Elapsed        : 00:00:02

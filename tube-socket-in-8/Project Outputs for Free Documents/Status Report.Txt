@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [tube-socket-in-8.PrjPcb]
+   Generated File[Bill of Materials-tube-socket-in-8.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 7:27:08 PM On 9/10/2026
