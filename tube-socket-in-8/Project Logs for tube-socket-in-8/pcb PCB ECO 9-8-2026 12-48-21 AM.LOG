@@ -1,0 +1,26 @@
+Add Component: Footprint Not Found 2.54-1x6P
+Add Component: Footprint Not Found HX PZ2.54-1x5P ZZ
+Added Component: Designator=V1(Nixie_Tube_IN-8)
+Added Pin To Net: NetName=AN_COMMON Pin=V1-11
+Added Net: Name=AN_COMMON
+Added Pin To Net: NetName=CATH_0 Pin=V1-10
+Added Net: Name=CATH_0
+Added Pin To Net: NetName=CATH_1 Pin=V1-1
+Added Net: Name=CATH_1
+Added Pin To Net: NetName=CATH_2 Pin=V1-2
+Added Net: Name=CATH_2
+Added Pin To Net: NetName=CATH_3 Pin=V1-3
+Added Net: Name=CATH_3
+Added Pin To Net: NetName=CATH_4 Pin=V1-4
+Added Net: Name=CATH_4
+Added Pin To Net: NetName=CATH_5 Pin=V1-5
+Added Net: Name=CATH_5
+Added Pin To Net: NetName=CATH_6 Pin=V1-6
+Added Net: Name=CATH_6
+Added Pin To Net: NetName=CATH_7 Pin=V1-7
+Added Net: Name=CATH_7
+Added Pin To Net: NetName=CATH_8 Pin=V1-8
+Added Net: Name=CATH_8
+Added Pin To Net: NetName=CATH_9 Pin=V1-9
+Added Net: Name=CATH_9
+Added Class: Name=tube-socket-in-8

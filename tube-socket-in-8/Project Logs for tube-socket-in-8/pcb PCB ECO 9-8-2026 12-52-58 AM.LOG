@@ -1,0 +1,27 @@
+Added Component: Designator=H1(2.54-1x6P)
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "2.54-1x6P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part #"; Value = "C37208"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BOOMELE(Boom Precision Elec)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "2.54-1x6P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U1(HX PZ2.54-1x5P ZZ)
+Add component (AddParameter): Name = "Component Type"; Value = "Integrated Circuits"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "HX PZ2.54-1x5P ZZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part #"; Value = "C32713271"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "hanxia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "HX PZ2.54-1x5P ZZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CATH_1 Pin=H1-1
+Added Pin To Net: NetName=CATH_2 Pin=H1-2
+Added Pin To Net: NetName=CATH_3 Pin=H1-3
+Added Pin To Net: NetName=CATH_4 Pin=H1-4
+Added Pin To Net: NetName=CATH_5 Pin=H1-5
+Added Pin To Net: NetName=CATH_6 Pin=H1-6
+Added Pin To Net: NetName=CATH_7 Pin=U1-1
+Added Pin To Net: NetName=CATH_8 Pin=U1-2
+Added Pin To Net: NetName=CATH_9 Pin=U1-3
+Added Pin To Net: NetName=CATH_0 Pin=U1-4
+Added Pin To Net: NetName=AN_COMMON Pin=U1-5
+Added Member To Class: ClassName=tube-socket-in-8 Member=Component H1 2.54-1x6P
+Added Member To Class: ClassName=tube-socket-in-8 Member=Component U1 HX PZ2.54-1x5P ZZ
