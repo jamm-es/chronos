@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\james\chronos\pcb\pcb.PcbDoc
-Date     : 9/10/2026
-Time     : 6:59:43 PM
+Date     : 9/13/2026
+Time     : 3:59:25 PM
 
 Processing Rule : Clearance Constraint (Gap=0.127mm) (All),(All)
 Rule Violations :0
@@ -87,7 +87,7 @@ Rule Violations :0
 Processing Rule : Room config-interface (Bounding Region = (71.885mm, 52.337mm, 147mm, 110.237mm) (InComponentClass('config-interface'))
 Rule Violations :0
 
-Processing Rule : Room lv-supply (Bounding Region = (33mm, 91.9mm, 54.9mm, 101.1mm) (InComponentClass('lv-supply'))
+Processing Rule : Room lv-supply (Bounding Region = (31.1mm, 91.9mm, 54.9mm, 101.1mm) (InComponentClass('lv-supply'))
 Rule Violations :0
 
 Processing Rule : Room chronos-core (Bounding Region = (34mm, 52.6mm, 71.6mm, 91.5mm) (InComponentClass('chronos-core'))
@@ -117,9 +117,9 @@ Rule Violations :0
 Processing Rule : Height Constraint (Min=0mm) (Max=1816.048mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
-Waived Violations Of Rule : Room lv-supply (Bounding Region = (33mm, 91.9mm, 54.9mm, 101.1mm) (InComponentClass('lv-supply'))
-   Waived Violation between Room Definition: Between Room lv-supply (Bounding Region = (33mm, 91.9mm, 54.9mm, 101.1mm) (InComponentClass('lv-supply')) And SIP Component USB1-MicroXNJ (4.557mm,45.858mm) on Top Layer Waived by John Doe at 9/10/2026 6:58:49 PMwhatever man
-   Waived Violation between Room Definition: Between Room lv-supply (Bounding Region = (33mm, 91.9mm, 54.9mm, 101.1mm) (InComponentClass('lv-supply')) And Small Component U20-BH-AAA-A1AJ024 (111.3mm,64.5mm) on Top Layer Waived by John Doe at 9/10/2026 4:17:32 PMwhatever man
+Waived Violations Of Rule : Room lv-supply (Bounding Region = (31.1mm, 91.9mm, 54.9mm, 101.1mm) (InComponentClass('lv-supply'))
+   Waived Violation between Room Definition: Between Room lv-supply (Bounding Region = (31.1mm, 91.9mm, 54.9mm, 101.1mm) (InComponentClass('lv-supply')) And SIP Component USB1-MicroXNJ (3.157mm,45.758mm) on Top Layer Waived by John Doe at 9/13/2026 3:59:18 PMwho gaf
+   Waived Violation between Room Definition: Between Room lv-supply (Bounding Region = (31.1mm, 91.9mm, 54.9mm, 101.1mm) (InComponentClass('lv-supply')) And Small Component U20-BH-AAA-A1AJ024 (111.3mm,64.5mm) on Top Layer Waived by John Doe at 9/13/2026 3:59:02 PMwho gaf
 Waived Violations :2
 
 

@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: pcb.PcbDoc   9/10/2026  7:04:08 PM
+NCDrill File Report For: pcb.PcbDoc   9/13/2026  3:59:41 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -12,9 +12,9 @@ T1      8mil (0.201mm)                                            Round         
 T2      12mil (0.3mm)                                             Round             545       PTH        84.44inch (2144.66mm)
 T3      13mil (0.33mm)                                            Round             16        PTH        0.76inch (19.20mm)
 T4      24mil (0.599mm)                                           Round             97        PTH        36.83inch (935.54mm)
-T5      28mil (0.701mm)         +/-0mil (0mm)                     Round             12        PTH        2.45inch (62.32mm)
+T5      28mil (0.701mm)         +/-0mil (0mm)                     Round             12        PTH        2.48inch (63.06mm)
 T6      28mil (0.701mm)         +/-0mil (0mm)                     Slot              2         PTH        0.59inch (14.90mm)
-T7      28mil (0.711mm)                                           Round             13        PTH        2.68inch (68.17mm)
+T7      28mil (0.711mm)                                           Round             13        PTH        2.69inch (68.37mm)
 T8      30mil (0.762mm)                                           Round             26        PTH        5.90inch (149.86mm)
 T9      36mil (0.914mm)         +/-0mil (0mm)                     Round             30        PTH        6.82inch (173.15mm)
 T10     39mil (1.001mm)         +/-0mil (0mm)                     Round             3         PTH        0.16inch (4.00mm)

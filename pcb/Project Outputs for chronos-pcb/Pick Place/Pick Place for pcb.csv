@@ -4,14 +4,14 @@ C:\Users\james\chronos\pcb\Project Outputs for chronos-pcb\Pick Place\Pick Place
 ========================================================================================================================
 File Design Information:
 
-Date:       10/09/26
-Time:       19:04
-Revision:   30ef2051f178fa44cef24b01dd66ed677de5ff60
+Date:       13/09/26
+Time:       16:00
+Revision:   afaf08b71be3d8c5a9c05ee6a22a92fe1f8dfb1f
 Variant:    No variations
 Units used: mm
 
 "Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
-"USB1","MicroXNJ","TopLayer","MicroXNJ","4.5568","45.8578","180","USB Connectors. -20C~+85C 1 1.8A 30V 5,000 times 5P Black Female Micro-B Surface Mount, Right Angle USB 2.0 SMD USB Connectors ROHS"
+"USB1","MicroXNJ","TopLayer","MicroXNJ","3.1568","45.7578","180","USB Connectors. -20C~+85C 1 1.8A 30V 5,000 times 5P Black Female Micro-B Surface Mount, Right Angle USB 2.0 SMD USB Connectors ROHS"
 "U2","LT3757AEMSE#PBF","TopLayer","LT-MSE-10-EDP_N","4.7000","56.4250","90","Boost, Flyback, SEPIC and Inverting Controller-Improved Load Transient, 10-pin SOP (MSE-10-EDP), -40 to 125 degC, Pb-Free"
 "SW2","SS12D07VG4 087","TopLayer","SS12D07VG4_087","110.9000","16.5000","90","Slide Switches. SS12D07VG4 087"
 "C14","CL05B104KO5NNNC","TopLayer","CAPC1050X55X23ML05T13","39.7000","61.3000","90","Chip Capacitor, 100 nF, +/- 10%, 16 V, -55 to 125 degC, 0402 (1005 Metric), RoHS, Tape and Reel"
